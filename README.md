@@ -25,6 +25,9 @@ First section of the Responsive Web Design Course on freecodecamp.org
               <li>thunder</li>
               <li>other cats</li>
             </ol>
+            <figure>
+              <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
+            </figure>
       </section>
     </main>
   </body>
